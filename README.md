@@ -26,7 +26,6 @@ sudo nmap -O (ip address)
 ```
 📌 **Goal**: Find all live hosts and their OS information.
 
-![Nmap Scan](images/nmap_scan_example.png)
 
 ---
 
@@ -36,7 +35,6 @@ Use Bettercap to poison ARP tables and redirect traffic.
 sudo bettercap -T 192.168.1.200 --gateway 192.168.1.1
 ```
 
-![Bettercap](images/bettercap_attack_flow.png)
 
 ---
 
@@ -46,8 +44,6 @@ Victim visits a **fake login page** created using SEToolkit:
 REAL: https://web.mnsu.edu/eservices  
 FAKE: http://192.168.1.200/
 ```
-
-![Fake Login](images/setoolkit_fake_login.png)
 
 ---
 
@@ -60,7 +56,6 @@ After ARP poisoning, the attacker injected a **fake DNS response** to redirect t
 
 Captured DNS spoofing activity in Wireshark:
 
-![DNS Spoofing Packet](images/wireshark_dns_spoof.png)
 
 ---
 
