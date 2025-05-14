@@ -82,4 +82,4 @@ This project was conducted in a **controlled environment** with virtual machines
 ## 🙋 About Me
 **Swoyam Bista**  
 Student | Security+ Candidate | Cybersecurity Enthusiast  
-[LinkedIn](https://www.linkedin.com/) *(insert your real link)*
+[LinkedIn](https://www.linkedin.com/in/swoyam-bista/)
