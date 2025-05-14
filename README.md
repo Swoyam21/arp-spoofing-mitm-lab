@@ -7,10 +7,6 @@ This is a cybersecurity project simulating an **ARP Spoofing** (ARP Poisoning) a
 
 ---
 
-## 👨‍💻 Contributors
-- Ajay  
-- Eros  
-- Swoyam Bista
 
 ---
 
@@ -26,7 +22,7 @@ This is a cybersecurity project simulating an **ARP Spoofing** (ARP Poisoning) a
 
 ### 💡 Step 1: Discover the Network
 ```bash
-sudo nmap -O 192.168.1.0/24
+sudo nmap -O (ip address)
 ```
 📌 **Goal**: Find all live hosts and their OS information.
 
